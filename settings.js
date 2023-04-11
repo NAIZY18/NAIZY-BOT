@@ -6,13 +6,13 @@ const chalk = require('chalk')
 ⚙️ Owner SETTINGS  ⚙️
 */
 
-//Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+//Owner Number & naizy
+global.owner = ['94769119733'] //ur owner number
+global.ownername = "sasun ruchinika" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'NAIZY BOT' //ur bot name
+global.wm = "NAIZY BOT" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
@@ -64,18 +64,18 @@ global.SEX_VIDEO_DOWNLOAD ='true'
 global.KICK_MSG = ' ' 
 
 //Links (URLS)
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.ytname = "YT: TAKASHI MIX" //ur yt chanel name
+global.socialm = "GitHub:NAIZY BOT" //ur github or insta name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
-global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
+global.websitex = "https://youtu.be/c/NAIZY " //ur website to be displayed
+global.botscript = 'https://github.com/NAIZY/NAIZY BOT' //script link
 
 //Alive 
 global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a7c660ecbfffb.jpg`
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
-global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
+global.packname = "NAIZY BOT 💃" 
 
 //Anti Bad Word
 global.ANTI_BADWORD = 'true'
